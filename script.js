@@ -6,7 +6,7 @@ function openFolder(num) {
       <h2>👑 Per la mia Regina</h2>
       <p>
         Amore, guardati un attimo.  
-        hai già 18 anni seicosì bellissima così vecchia heheheh :).  
+        hai già 18 anni sei così bellissima così vecchia heheheh :).  
         I 18 anni non ti cambieranno ma ti faranno 
         solo brillare e illuminare di più. Oggi compi 18 anni e non è solo un numeroè un nuovo inizio di una versione di te, più forte, più libera e più consapevole. Voglio che tu sappia che sono orgoglioso di chi sei diventata e di chi diventerai, passo dopo passo. ✨
       </p>
@@ -35,7 +35,7 @@ Anche nei momenti in cui la scuola sembrerà troppo pesante, ricordati che te ha
       <p>
         Amore, il tuo glow up sta arrivando.  
         Piano piano anche se sei già bellisima così ogni giorno migliorerai e sarai più vicina ai tuoi obbiettivi . 
-        Come te ✨
+         ✨
       </p>
       <img src="img/cavaliere.jpg">
     `;
@@ -58,4 +58,5 @@ Anche nei momenti in cui la scuola sembrerà troppo pesante, ricordati che te ha
 function unlock(num) {
   document.getElementById("f" + num).classList.remove("locked");
 }
+
 
